@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/morcmarc/react-native-cognito#readme",
   "devDependencies": {
-    "react-native": "^0.14.2"
+    "react-native": "^0.17.0"
   }
 }
