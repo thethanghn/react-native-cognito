@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3BCB851E7D3B0CE8526903948A32406A1CD07DB6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC6FDF474D1B23EC96046F70B8DC03088DF1FDCB" : 0,
+    "3BCB851E7D3B0CE8526903948A32406A1CD07DB6" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C7CA5D0C-5C5C-4857-933C-D7E59210C846",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC6FDF474D1B23EC96046F70B8DC03088DF1FDCB" : "",
+    "3BCB851E7D3B0CE8526903948A32406A1CD07DB6" : "react-native-cognito\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RCTCognito",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/RCTCognito.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:thethanghn\/react-native-cognito.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3BCB851E7D3B0CE8526903948A32406A1CD07DB6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "pl2.projectlocker.com:Built.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC6FDF474D1B23EC96046F70B8DC03088DF1FDCB"
+    }
+  ]
+}
